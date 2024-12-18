@@ -1,3 +1,4 @@
+# Executive Summary
 This project aims to improve efficiency and reliability of promotion decisions of an organization by analyzing employee data from last year's promotion cycle. Explanatory Data Analysis and Machine Learning modelling are performed to identify key factors of promotions and make promotion predictions based on these factors. Insights from both EDA and ML models are aligned to make recommendations for future promotion-relevant practices.
 
 - **Techniques Used**
