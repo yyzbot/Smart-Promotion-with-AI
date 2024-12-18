@@ -20,3 +20,5 @@ This project aims to improve efficiency and reliability of promotion decisions o
     - Assess and align recruitment quality across all channels, but also leverage referrals' strength when proper.
     - Investigate reasons behind departmental descrepencies and avoid biases.
     - Utilize the ML model to short-list candidates for promotion, take action to acquire more data from promoted employee to improve performance of the model.
+
+**Source:** [Employees Evaluation for Promotion](https://www.kaggle.com/datasets/muhammadimran112233/employees-evaluation-for-promotion)
