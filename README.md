@@ -18,7 +18,7 @@ This project aims to improve efficiency and reliability of promotion decisions o
 - **Business Recommendations**
     - Enhance employee evaluation and training system to ensure truthful reflection of employee performance and better preparation for leadership role.
     - Assess and align recruitment quality across all channels, but also leverage referrals' strength when proper.
-    - Investigate reasons behind departmental descrepencies and avoid biases.
+    - Investigate reasons behind departmental and regional descrepencies and avoid unintended biases.
     - Utilize the ML model to short-list candidates for promotion, take action to acquire more data from promoted employee to improve performance of the model.
 
 **Source:** [Employees Evaluation for Promotion](https://www.kaggle.com/datasets/muhammadimran112233/employees-evaluation-for-promotion)
