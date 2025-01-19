@@ -1,6 +1,6 @@
 # Smart Promotion: AI-Driven Employee Evaluation
 
-This project aims to improve efficiency and reliability of promotion decisions of an organization by analyzing employee data from last year's promotion cycle. Explanatory Data Analysis and Machine Learning modelling are performed to identify key factors of promotions and make promotion predictions based on these factors. Insights from both EDA and ML models are aligned to make recommendations for future promotion-relevant practices.
+This project aims to improve efficiency and reliability of promotion decisions of an organization by analyzing employee data from last year's promotion cycle(**source:** [Employees Evaluation for Promotion](https://www.kaggle.com/datasets/muhammadimran112233/employees-evaluation-for-promotion). Explanatory Data Analysis and Machine Learning modelling are performed to identify key factors of promotions and make promotion predictions based on these factors. Insights from both EDA and ML models are aligned to make recommendations for future promotion-relevant practices.
 
 ## **Techniques Used**
 - Univariate analysis with descriptive statistics and histogram
@@ -18,5 +18,3 @@ This project aims to improve efficiency and reliability of promotion decisions o
 - Enhance employee evaluation and training system to ensure truthful reflection of employee performance and better preparation for leadership role
 - Investigate reasons behind categorical descrepencies and avoid unintended biases
 - Utilize the ML model to short-list candidates for promotion, take action to acquire more data from promoted employee to improve performance of the model
-
-**Source:** [Employees Evaluation for Promotion](https://www.kaggle.com/datasets/muhammadimran112233/employees-evaluation-for-promotion)
