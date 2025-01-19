@@ -12,9 +12,9 @@ This project aims to improve efficiency and reliability of promotion decisions o
 ## **Key Findings**
 - Good performance metrics(training scores, ratings, awards) can significantly improve promotion likelihood.
 - Promotional chances are not equal across categoricals like age, departments etc.
-- The ML model is accurate identifying eligible candidates but too conservative to find many of them due to lack of data from promoted employees
+- The ML model is accurate identifying eligible candidates but too conservative to find many of them due to lack of data from promoted employees.
 
 ## **Business Recommendations**
-- Enhance employee evaluation and training system to ensure truthful reflection of employee performance and better preparation for leadership role
-- Investigate reasons behind categorical descrepencies and avoid unintended biases
-- Utilize the ML model to short-list candidates for promotion, take action to acquire more data from promoted employee to improve performance of the model
+- Enhance employee evaluation and training system to ensure truthful reflection of employee performance and better preparation for leadership role.
+- Investigate reasons behind categorical descrepencies and avoid unintended biases.
+- Utilize the ML model to short-list candidates for promotion, take action to acquire more data from promoted employee to improve performance of the model.
